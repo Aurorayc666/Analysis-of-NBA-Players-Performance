@@ -1,7 +1,7 @@
 # Analysis-of-NBA-Players-Performance
 An interactive dashboard using Python Dash and Plotly
 
-This is a reactive dashboard performance report for analyzing player efficiency. There are five graphs analyzing players salary, age, performance, etc. User can input or select based on different analyzing demands to investigate responding information.
+This is a reactive dashboard report for analyzing player efficiency, created by my team. There are five graphs analyzing players salary, age, performance, etc. User can input or select based on different analyzing demands to investigate responding information.
 
 Nowadays, the NBA has become more and more popular around the world, what followed is the salary of NBA stars rising up rapidly. The NBA restricts team spending on salaries unsing a salary cap, meaning all teams in this league use nearly the same amount of money to build a team which could win the final championship. Based on the context, how to spend money sensibly and reasonably is the most important thing in every team managers' and coaches' mind.
 
