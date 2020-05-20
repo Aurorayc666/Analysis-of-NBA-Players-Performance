@@ -7,6 +7,8 @@ Nowadays, the NBA has become more and more popular around the world, what follow
 
 To fix the problem we mentioned above, our group decided to help team managers and coaches to analyze the NBA players' performance and their salaries from 5 aspects: player efficiency, Scatter Plot: Age and Salary, Histogram for Salary, Filterable Table, and Compare players' performance by statistics. Usingour graphs and plots, we could decide which player is the most efficient and who's the most cost-effective star for the given season.
 
+Below are some screen shots of the Dashboard
+
 ![](images/age_salary.png)
 
 ![](images/fiterable_table.png)
